@@ -23,7 +23,7 @@ Analisis ini menggunakan tiga dataset utama:
 
 PM2.5 Air Pollution – berisi tingkat polusi udara partikel halus PM2.5 per negara.
 
-GDP Per Capita (World Bank) – data tingkat pendapatan per kapita setiap negara.
+GDP Per Capita (World Bank) – berisi data tingkat pendapatan per kapita setiap negara.
 
 Population Dataset – berisi jumlah penduduk tahunan setiap negara.
 
