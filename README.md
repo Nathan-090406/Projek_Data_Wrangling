@@ -127,9 +127,9 @@ Seaborn
 
 6. Cara Menjalankan Proyek
 
-Jalankan file utama:
+Masukkan ketiga dataset terlebih dahulu
 
-Projek Data Wrangling.ipynb
+Lalu jalankan file Projek Data Wrangling.ipynb
 
 7. Penutup
 
