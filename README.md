@@ -63,9 +63,7 @@ Hasil pre-processing disimpan dalam folder Pre-Processing.
 
 Pada tahap ini dilakukan penggabungan dataset PM2.5, GDP per kapita, dan populasi berdasarkan kolom kunci:
 
-Country_Code
-
-Year
+Country_Code & Year
 
 Tahap ini menghasilkan dataset terpadu yang akan digunakan untuk analisis lebih lanjut.
 Hasil integrasi tersedia dalam folder Integrasi Data.
