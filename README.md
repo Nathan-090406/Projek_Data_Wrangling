@@ -21,11 +21,11 @@ Project ini dirancang sebagai bagian dari pemenuhan tugas mata kuliah Data Wrang
 
 Analisis ini menggunakan tiga dataset utama:
 
-PM2.5 Air Pollution = berisi tingkat polusi udara partikel halus PM2.5 per negara ( Satuannya Jiwa (orang) ).
+PM2.5 Air Pollution = berisi tingkat polusi udara partikel halus PM2.5 per negara ( Satuannya µg/m³ (mikrogram per meter kubik) ).
 
 GDP Per Capita (World Bank) = berisi data tingkat pendapatan per kapita setiap negara ( Satuannya USD (United States Dollar) per orang per tahun ).
 
-Population Dataset = berisi jumlah penduduk tahunan setiap negara ( Satuannya µg/m³ (mikrogram per meter kubik) ).
+Population Dataset = berisi jumlah penduduk tahunan setiap negara ( Satuannya Jiwa (orang) ).
 
 Seluruh dataset difokuskan pada tahun 2010–2019.
 
